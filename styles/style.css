@@ -69,13 +69,6 @@ margin-top: 200px;
     font-weight: 800;
    margin-bottom: 10px;
 }
-span{
-    margin-left: 360px;
-    border: 2px solid black;
-    height: 100px;
-    width:100px
-
-}
 .web-development-content-sub-title p{
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
@@ -106,7 +99,7 @@ span{
 
 /* about web development container styles */
 
-/* .about-web-development-container{
+.about-web-development-container{
    width: 1090px; 
    height: 1350px;
    margin: 0 auto;
@@ -144,7 +137,7 @@ margin-top: 3px;
   margin-bottom: 10px;
   margin-left: 30px;
 }
-span{
+.about-web-development-content-title span{
     margin-left: 210px;
 }
 .about-web-development-change-world-one{
@@ -204,8 +197,8 @@ height: 217.01px;
     width: 30%;
     height: 200px;
     margin-top: 40px;
-    margin-right: 40px; */
-    /* margin-left: 40px;
+    margin-right: 40px;
+    margin-left: 40px;
     
 }
 .second-left-side img{
@@ -249,4 +242,7 @@ font-weight: 700;
 .third-right-side img{
     width: 240px;
 height: 240px;
-} */
+}
+span{
+    margin-left: 370px;
+}
