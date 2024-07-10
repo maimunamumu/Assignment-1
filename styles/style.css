@@ -58,7 +58,6 @@
 .web-development-content-sub-title img{
     width: 240.28px;
 height: 240px;
-/* margin-bottom: 50px; */
 margin-bottom: 10px;
 margin-top: 200px;
 }
@@ -77,28 +76,10 @@ margin-top: 200px;
     margin-bottom: 5px;
     margin-top: 10px;
 }
-
-.web-development-content-sub-title button{
-    border: 2px solid black;
-    border-radius: 8px;
-    width: 200px;
-    height: 55px;
-    margin-bottom:200px;
-    margin-top: 50px;
-    color: rgb(255, 255, 255);
-   font-family: Azeret Mono;
-  font-size: 16px;
-  font-weight: 600;
-  background-color: black;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-   
-}
 #title{
     margin-left: 10px;
 }
-.btn p{
+ .web-development-content-sub-title button{
     border: 2px solid black;
     border-radius: 8px;
     width: 200px;
@@ -113,6 +94,9 @@ margin-top: 200px;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.web-development-content-sub-title a{
+    text-decoration: none;
 }
 
 /* about web development container styles */
