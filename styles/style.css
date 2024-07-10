@@ -308,3 +308,147 @@ iframe{
     width: 1030px;
     height: 560px;
 }
+
+/* current target section styles */
+
+.current-target-container{
+    width: 1090px;
+    height:395px;
+    margin: 0 auto;
+    margin-top: 145px;
+
+}
+
+.current-target-title{
+    width: 1090px;
+   height:140px;
+     display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+.current-target-title h1{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 30px;
+font-weight: 800;
+margin-bottom: 3px;
+margin-top: 3px;
+}
+.current-target-title p{
+    color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 40px;
+  margin-left: 30px;
+}
+.current-target-title span{
+    margin-left: 200px;
+}
+
+.tag-container{
+    width: 1090;
+    height: 265px;
+    display: flex;
+    justify-content: space-between;
+}
+.html-tag{
+    height: 250px;
+    width: 340px;
+    border: 2px solid white;
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.html-tag-inter{
+    height: 210px;
+    width: 300px;
+    
+}
+.html-tag-inter h1{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 30px;
+font-weight: 800;
+margin-bottom: 3px;
+margin-top: 3px;
+
+}
+.html-tag-inter p{
+    color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 12px;
+  font-weight: 400;
+  margin-bottom: 40px;
+}
+h6 a{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 12px;
+font-weight: 700;
+}
+.css-tag{
+    height: 250px;
+    width: 340px;
+    border: 2px solid white;
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.css-tag-inter{
+    height: 210px;
+    width: 300px;
+}
+.css-tag-inter h1{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 3px;
+    margin-top: 3px;
+    
+}
+.css-tag-inter p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 12px;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+.java-script-tag{
+    height: 250px;
+    width: 340px;
+    border: 2px solid white;
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.java-script-tag-inter{
+    height: 210px;
+    width: 300px;
+}
+.java-script-tag-inter h1{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+.java-script-tag-inter p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 12px;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
